@@ -8,6 +8,7 @@
 </head>
 <h4> Jose Ezequiel Lopez Rivas</h4>
 <h4> DSW-21B</h4>
+<h4> DSW-21B</h4>
 <body>
 <?php
 require 'componentes\cabecera.php';
